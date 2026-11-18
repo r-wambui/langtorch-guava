@@ -101,7 +101,7 @@ dependencies {
     // Regex expression matching
     implementation 'com.google.re2j:re2j:1.7'
     // Java Utils
-    implementation "com.google.guava:guava:31.1-jre"
+    implementation "com.google.guava:guava:33.7.2-jre"
     implementation 'commons-io:commons-io:2.11.0'
     implementation 'com.google.mug:mug:6.6'
     implementation 'com.google.auto.value:auto-value-annotations:1.10.1'
